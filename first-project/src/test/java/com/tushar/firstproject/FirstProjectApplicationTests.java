@@ -1,12 +1,12 @@
 package com.tushar.firstproject;
 
-import org.junit.jupiter.api.Test;
+//import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class FirstProjectApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
