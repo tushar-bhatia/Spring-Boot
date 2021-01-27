@@ -8,6 +8,6 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
-    <p>Welcome to the Spring Boot!</p>
+    <p>Welcome ${name} to the Spring Boot!</p>
 </body>
 </html>
